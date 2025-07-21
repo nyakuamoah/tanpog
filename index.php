@@ -1,6 +1,6 @@
 <?php 
-require "includes/tanpog_header_en.php";
-require "includes/tanpog_nav_en.php";
+require "./includes/tanpog_header_en.php";
+require "./includes/tanpog_nav_en.php";
 ?>
 
     <div class="row fullwidth top-padding">
